@@ -53,7 +53,7 @@ public class SparseArray {
 		System.out.println();
 		System.out.println("得到稀疏数组为~~~~");
 		for (int i = 0; i < sparseArr.length; i++) {
-			System.out.printf("%d\t%d\t%d\t\n", sparseArr[i][0], sparseArr[i][1], sparseArr[i][2]);
+			System.out.printf("%d\t%d\t%d\n", sparseArr[i][0], sparseArr[i][1], sparseArr[i][2]);
 		}
 		System.out.println();
 		
